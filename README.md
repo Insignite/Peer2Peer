@@ -1,2 +1,1 @@
-https://stackoverflow.com/questions/27014955/socket-connect-vs-bind
-Link to demo the network structure
+A simple Peer2Peer file transfer project for me to get started on Network field.
